@@ -1,0 +1,39 @@
+{
+  "name": "remaining-network",
+  "version": "1.0.0",
+  "description": "A tool to get remaining upload and download speeds on a system",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinkqween/remaining-network.git"
+  },
+  "author": "Hanna Skairipa\",",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinkqween/remaining-network/issues"
+  },
+  "homepage": "https://github.com/pinkqween/remaining-network#readme",
+  "keywords": [
+    "SNMP bandwidth calculator",
+    "network bandwidth monitoring",
+    "upload bandwidth calculation",
+    "download bandwidth calculation",
+    "network performance monitor",
+    "SNMP network statistics",
+    "network traffic analyzer",
+    "SNMP upload download speed",
+    "remaining bandwidth monitor",
+    "interface bandwidth usage",
+    "Node.js SNMP tool",
+    "SNMP-based bandwidth checker",
+    "network speed calculation",
+    "upload and download tracker",
+    "network traffic monitoring"
+  ],
+  "dependencies": {
+    "snmp-native": "^1.2.0"
+  }
+}
