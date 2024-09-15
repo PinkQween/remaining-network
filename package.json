@@ -1,6 +1,6 @@
 {
   "name": "remaining-network",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool to get remaining upload and download speeds on a system",
   "main": "index.js",
   "scripts": {

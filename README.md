@@ -17,7 +17,7 @@ bun install remaining-network
 ## Usage
 
 ```javascript
-const BandwidthCalculator = require('./index');
+const BandwidthCalculator = require('remaining-network');
 
 // Replace with your SNMP device IP, community string, and interface index
 const deviceIp = '127.0.0.1';
