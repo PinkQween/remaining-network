@@ -11,7 +11,7 @@ This NPM package calculates the remaining network bandwidth using SNMP (Simple N
 ## Installation
 
 ```bash
-bun install remaining-network-bandwidth
+bun install remaining-network
 ```
 
 ## Usage
